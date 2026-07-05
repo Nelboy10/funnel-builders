@@ -30,3 +30,5 @@ static/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+.env
